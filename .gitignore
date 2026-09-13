@@ -2,3 +2,4 @@
 *.save
 RBMetaToggle
 RB Meta.app/Contents/MacOS/
+RB Meta.app/Contents/_CodeSignature/
